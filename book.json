@@ -2,7 +2,6 @@
     "plugins": [
         "hide-element",
         "lightbox",
-        "page-treeview",
         "-lunr",
         "-search",
         "search-pro",
@@ -20,11 +19,6 @@
             "elements": [
                 ".gitbook-link"
             ]
-        },
-        "page-treeview": {
-            "copyright": "Copyright &#169; aleen42",
-            "minHeaderCount": "2",
-            "minHeaderDeep": "2"
         },
         "sharing": {
             "douban": true,
@@ -50,9 +44,9 @@
                 "whatsapp"
             ]
         },
-        "favicon": "images/Title/favicon.ico",
-        "title": "面试",
-        "description": "面试宝典",
+        "favicon": "images/favicon.ico",
+        "title": "算法",
+        "description": "算法宝典",
         "author": "sonin",
         "styles": {
             "website": "styles/website.css"
